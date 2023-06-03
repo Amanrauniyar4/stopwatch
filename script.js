@@ -32,7 +32,7 @@ function reset(){
 function stopwatch(){
     if(timer==true){
         count=count+1;
-        if(count==100){
+        if(count==67){
             sec=sec+1;
             count=0;
         }
